@@ -1,0 +1,1 @@
+# This is a project is a fairly a simple imitation of a Railway Reservation System made using Java.It basically allows us to book tickets, cancel tickets, find a passenger using the unique PNR number and also the total number of seats left in each class and train. Made this one quite long ago, so its not that optimal and efficient but it works
